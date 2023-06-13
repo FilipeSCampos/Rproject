@@ -56,14 +56,38 @@ Feel free to modify the content as needed to match your specific project.
 
 ## Some of the analysis that I was able to interpret from this study.
 
-![image](https://github.com/FilipeSCampos/Rproject/assets/113521439/a38a11da-fbef-44ac-abba-04988dc7be5f)
 
-In this graph, we can observe a significant gradual peak towards the end of the year 2022, where NVIDIA and AMD follow a nearly identical trend, while Intel had already lost this competition.
+![Capturar](https://github.com/FilipeSCampos/Rproject/assets/113521439/23002b32-f62e-491e-a20b-c7e31fa25b33)
 
-This high peak, where NVIDIA's stock reached an incredible $333, is due to the rise of Bitcoin. Bitcoin had reached its all-time high price just a few days before the peak in graphics card stocks. All of this is connected because of the large purchase of GPUs for the creation and expansion of several Bitcoin mining operations that were being set up and put into production.
+Here are the initial analyses I did, starting with the overall statistics of the adjusted closing price for each brand. 
 
-![image](https://github.com/FilipeSCampos/Rproject/assets/113521439/97ded883-c9c8-486f-b36b-68efe548d2c5)
+As we can see, throughout the history of these three brands, the average of their stock prices remains relatively similar, ranging from $14 to $18. However, the maximum values of their stocks are significantly higher, and that will be the main focus of this analysis. 
 
 
+![Capturar](https://github.com/FilipeSCampos/Rproject/assets/113521439/ed624aec-fcda-4f3b-9f97-f9bf99a15486)
+
+In the first 20 years, we can see that AMD was leading the market, but starting from 1995, Intel began experiencing growth. This was likely due to the launch of the Intel Pentium Pro, the sixth generation of x86 chips, which featured several improvements over its predecessor, Alongside the release in 2000’s of the Intel Pentium 4, which featured a completely different design, Intel continued to solidify its position in the market. The Pentium 4 was a significant advancement in terms of performance and architecture, further contributing to Intel's growth and market dominance. However, during this initial boom, the stock prices only reached $40, and NVIDIA was not yet a part of this competition. 
+
+![Capturar](https://github.com/FilipeSCampos/Rproject/assets/113521439/c48bc803-43f7-4700-a065-eb7045cab82a)
+
+Let's fast forward to 2010, passing through 2006 where AMD experiences another surge. During this time, AMD and Intel were engaged in a competition to have the fastest dual-core processors on the market. On AMD's side, they had the Athlon 64 X2 (AM2), while Intel had their Core 2 Duo, which were replacing the Pentium D processors. It was also during this period that dual-core processors began to become a standard. 
+
+As we can see, AMD emerged victorious from this competition. Following that, the stock prices of both Intel and AMD started to correct, with Intel surpassing AMD in 2009. Meanwhile, NVIDIA experienced a slight increase. By 2010, all three brands were hovering around a range of $15 or lower per share, with Intel leading the pack. 
+
+![Capturar](https://github.com/FilipeSCampos/Rproject/assets/113521439/ee151485-acff-47da-8bef-77278206ea9c)
+
+Arriving in 2020, during the time when the pandemic occurred, all three brands had their stocks around $30. The market had already corrected itself, and both NVIDIA and AMD were able to compete with Intel using their latest generation of graphics cards. However, starting from 2020, there was an astronomical surge in the stocks of NVIDIA and AMD, while Intel struggled to keep up. This surge was primarily driven by the large-scale Bitcoin mining operations. 
+
+![image](https://github.com/FilipeSCampos/Rproject/assets/113521439/2ed0bcf0-d292-4cf9-b810-f17216daa70d)
+
+In October 2021, Bitcoin experienced a historic high, surpassing the $66,000 mark in market value. Just a few days after this peak, the stocks of NVIDIA and AMD also reached their highest points. However, NVIDIA's stock value was significantly higher than that of AMD, more than double in fact. This was because NVIDIA's graphics cards were preferred by many due to their superior graphical processing power compared to AMD's offerings. 
+
+![image](https://github.com/FilipeSCampos/Rproject/assets/113521439/cd9421f3-cbee-42b6-8528-b336afb81b90)
+
+Throughout the history of the GPU market, we observed fluctuations in the stock prices of the major brands, namely NVIDIA, AMD, and Intel. In the early years, AMD took the lead, but Intel gained momentum with the release of innovative processors like the Intel Pentium Pro and Pentium 4, driving its growth. AMD had its victories as well, particularly during the era of dual-core processors. 
+
+However, as the market evolved and demand for graphics processing power increased, NVIDIA emerged as a dominant player, surpassing both AMD and Intel in terms of stock performance. The rise of Bitcoin mining in 2020 further fueled the demand for NVIDIA's powerful graphics cards, pushing their stock prices to new heights. AMD also experienced a surge but couldn't match NVIDIA's market value. 
+
+In conclusion, while AMD and Intel had their respective moments of success, NVIDIA's superior graphical processing capabilities, combined with the demand generated by Bitcoin mining, propelled the company's stock prices to extraordinary levels. The GPU market continues to evolve, and competition among these brands remains fierce, as they strive to meet the ever-increasing demands of the computing world. 
 
 
