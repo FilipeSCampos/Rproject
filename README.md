@@ -40,16 +40,30 @@ Make sure you have the necessary CSV files containing the historical stock data 
 ## Usage
 
 1. Clone the repository:
-
-```shell
+```
 git clone https://github.com/FilipeSCampos/Rproject.git
-
+```
 # Open R console
 R
 
 # Install packages
+```
 install.packages(c("ggplot2", "dplyr", "tidyverse"))
 Rscript analysis.R
-
+```
 
 Feel free to modify the content as needed to match your specific project.
+
+## Some of the analysis that I was able to interpret from this study.
+
+![image](https://github.com/FilipeSCampos/Rproject/assets/113521439/a38a11da-fbef-44ac-abba-04988dc7be5f)
+
+In this graph, we can observe a significant gradual peak towards the end of the year 2022, where NVIDIA and AMD follow a nearly identical trend, while Intel had already lost this competition.
+
+This high peak, where NVIDIA's stock reached an incredible $333, is due to the rise of Bitcoin. Bitcoin had reached its all-time high price just a few days before the peak in graphics card stocks. All of this is connected because of the large purchase of GPUs for the creation and expansion of several Bitcoin mining operations that were being set up and put into production.
+
+![image](https://github.com/FilipeSCampos/Rproject/assets/113521439/97ded883-c9c8-486f-b36b-68efe548d2c5)
+
+
+
+
