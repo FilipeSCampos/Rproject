@@ -16,7 +16,7 @@ This repository contains code for analyzing and visualizing stock data using R. 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
-
+- [Analisys](#Some of the analysis that I was able to interpret from this study.)
 ## Introduction
 
 This project aims to analyze and visualize the stock prices and trading volumes of NVIDIA, AMD, and Intel using R programming language. The code retrieves historical stock data from CSV files, performs data manipulation and transformation, and generates visualizations to gain insights into the stock market trends.
