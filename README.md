@@ -1,6 +1,3 @@
-# Rproject
-### Repository for my college R project.
-
 ### Notebook with data analysis of stock prices for the leading graphics card brands in the market: Intel, NVIDIA, and AMD.
 
 ##### The data base im using is this NVIDIA, AMD, Intel, ASUS, MSI share prices (GPU) on kaggle
